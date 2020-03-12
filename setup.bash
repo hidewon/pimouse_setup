@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#Written by R. Ueda
 exec 2> /tmp/setup.log
 
 #cd /home/hidewon/RaspberryPiMouse/lib/Pi2B+/4.4.34-v7+/
